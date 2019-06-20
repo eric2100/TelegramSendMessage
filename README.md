@@ -3,8 +3,10 @@
 
 # 使用方式
 ## 設定變數
-TOKEN=<TOKEN>
-CHAT_ID=<CHAT_ID>
+```
+  TOKEN=<TOKEN>
+  CHAT_ID=<CHAT_ID>
+```  
 ## 執行方法
 ```bash
 ./SendMsg Hello
