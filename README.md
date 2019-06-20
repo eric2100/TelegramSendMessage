@@ -12,7 +12,7 @@
 ```bash
 ./SendMsg Hello
 ```
-### 傳送文字，與檔案  
+### 傳送文字與檔案  
 ```bash
 ./SendMsg Hello /tmp/a.txt
 ```
