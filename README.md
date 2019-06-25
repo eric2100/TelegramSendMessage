@@ -1,5 +1,6 @@
 # TelegramSendMessage
 這是一個在 Linux 終端機介面透過 curl 傳送到 telegram API，轉發到頻道的 script
+[linkname](https://youtu.be/Ju9MTZhzMJo)
 
 # 使用方式
 ## 設定變數
