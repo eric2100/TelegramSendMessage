@@ -14,6 +14,8 @@
 ./SendMsg Hello
 ```
 ### 傳送文字與檔案  
+依照tdc給的教學 https://core.telegram.org/bots/api#document
+將訊息變成傳送檔案的 caption
 ```bash
 ./SendMsg Hello /tmp/a.txt
 ```
